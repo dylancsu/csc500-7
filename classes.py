@@ -47,4 +47,4 @@ time = {
 "1:00 p.m."}
 
 course = input("Enter the course number: ")
-print(f"{course} is held at {time[course]} in room {room[course]} by Professor {instructors[course]}.")
+print(f"{course} is held at {time[course]} in room {rooms[course]} by Professor {instructors[course]}.")
